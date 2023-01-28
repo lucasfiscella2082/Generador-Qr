@@ -91,3 +91,10 @@ transition: max-height 1s;
     }
 
 }
+
+@media (min-width: 320px) {
+    .container{
+        display: grid;
+        width: 300px;
+    }
+}
